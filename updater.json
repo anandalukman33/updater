@@ -1,5 +1,5 @@
 {
     "url": "https://raw.githubusercontent.com/feicien/android-auto-update/develop/extras/android-auto-update-v1.3.apk",
     "versionCode": 4,
-    "updateMessage": "1. Video Dapat Berjalan Mode Offline\n2. Buffering Lebih Cepat!\n3. Auto Landscape Video Show!"
+    "updateMessage": "1. Support Offline Video\n2. Precache Video!\n3. Optimize UI!"
   }
